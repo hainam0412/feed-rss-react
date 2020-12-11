@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,UACI,gBAAiB,CACjB,cAAe,CACf,gBAAiB,CACjB,aAAc,CACd,kBAAmB,CACnB,gBACJ","file":"main.9047494a.chunk.css","sourcesContent":[".item img {\n    min-height: 325px;\n    max-width: 100%;\n    max-height: 325px;\n    display: block;\n    margin-bottom: 20px;\n    object-fit: cover;\n}\n"]}
